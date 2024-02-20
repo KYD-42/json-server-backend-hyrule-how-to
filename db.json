@@ -1,101 +1,121 @@
 {
-  "tips": [
+  "hints": [
     {
+      "id": 1,
       "title": "Visit every Skyview Tower.",
       "description": "These towers don’t just add a new region to both the sky and land sections of your map, they can send you shooting straight up to the sky. This is incredibly useful if you haven’t explored this region’s sky islands yet or simply want to get a quick route to the sky during your explorations.",
       "image": "https://www.gamespot.com/a/uploads/screen_kubrick/1816/18167535/4136172-zelda-tears-of-the-kingdom-skyview-towers-guide-.jpg"
     },
     {
+      "id": 2,
       "title": "Explore wells, caves and chasms.",
       "description": "Hyrule hasn’t just expanded skyward, it has also opened up its hidden depths. On your adventure, you’ll encounter a variety of caves, wells and chasms - all of which are worth exploring. Wells tend to be the smaller of the three, but still contain useful items, while caves are interwoven into the landscape of Hyrule and may lead you to a shrine. Be wary when you enter a chasm, however, because the way health works within them is quite different to the surface world.",
       "image": "https://www.themarysue.com/wp-content/uploads/2023/05/link-and-zelda-legend-of-zelda-tears-of-the-kingdom-opening.jpg?fit=1200%2C676"
     },
     {
+      "id": 3,
       "title": "Hide from the elements in caves and wells.",
       "description": "Entering a cave or a well can help you hide from both heat and cold temperatures, which is great if your resistance for these is running low. If you have a Portable Stove you can always take the time to cook some meals to help boost your resistance.",
       "image": "https://media.thenerdstash.com/wp-content/uploads/2023/05/Well-Area-Underground-Tears-of-the-Kingdom.jpg"
     },
     {
+      "id": 4,
       "title": "Experiment with Fuse.",
       "description": "From precious gems to wagon wheels, there’s a lot you can Fuse to your arrows, weapons and shields. We highly recommend fusing an item to any weapon or shield you collect, because, not only will it increase its durability, but it may grant your item a special ability. Fusing a rocket to a shield, for example, will turn it into a makeshift jetpack.",
       "image": "https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2023/05/legend-of-zelda-tears-of-the-kingdom-fuse.jpg"
     },
     {
+      "id": 5,
       "title": "Use the construction materials left around Hyrule.",
       "description": "As you explore Hyrule, you'll encounter piles of construction materials, such as wooden panels and wagon wheels, left for citizens by the Hudson Construction. Technically these materials are meant to be used to build new houses for the kingdom’s residents, but you can use them to build vehicles to help you traverse the landscape. (Or death machines.) Make sure to note them down on your map, so you never have to go searching for supplies.",
       "image": "https://i.redd.it/totk-potential-new-side-activity-carpenter-town-building-v0-c05xgz6rniqa1.png?width=1908&format=png&auto=webp&s=dba2e36d4063e6fa7da547bb55438ce7506d2847"
     },
     {
+      "id": 6,
       "title": "Make notes on your map!",
       "description": "On the subject of making notes on your map, don’t forget to note down anything and everything you encounter. Find a chest you can’t reach yet? Make a note. A mini-boss you don’t fancy battling at the moment? Make a note. Hyrule is a large country full of secrets, so it's a good idea to keep track of what you discover so you don’t forget anything.",
       "image": "https://assets-prd.ignimgs.com/2023/06/21/screenshot-2023-06-21-at-3-21-19-pm-1687386088079.png"
     },
     {
+      "id": 7,
       "title": "Upgrade your Energy Cell.",
       "description": "The Energy Cell is what powers the various devices you’ll use to move vehicles and its capacity can be increased by creating Energy Wells at a Crystal Refinery. You need at least 100 crystallised charges for your first Energy Well, but it’s worth the effort as the extra energy will bring more life to your Zonai Devices. Crystal Refineries can be found both on the ground and in the sky of Hyrule.",
       "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/totk-energy-cell-upgrade-featured.jpg"
     },
     {
+      "id": 8,
       "title": "Make use of Zonai Batteries.",
       "description": "If you don’t have the materials you need to upgrade your Energy Cell or just want some extra power, attach a Zonai Battery to your new vehicle. Once attached, these will automatically increase the power of your vehicle meaning you can take your glider covered in flamethrowers to new heights.",
       "image": "https://www.wepc.com/wp-content/uploads/2023/05/Tears-of-the-Kingdom-Cooking.jpg"
     },
     {
+      "id": 9,
       "title": "Don’t forget to cook!",
       "description": "A hearty meal won’t just restore Link’s health, it can also provide you with a useful boost - be it an increased amount of stamina or useful resistance like to the cold. If you’ve previously used an ingredient in a recipe, you can now use the ‘Select for recipe’ option to look back at the meals you created with it. This not only shows the other ingredients used to create the meal, but an overview of boosts and health it provides.",
       "image": "https://www.wepc.com/wp-content/uploads/2023/05/Tears-of-the-Kingdom-Cooking.jpg"
     },
     {
+      "id": 10,
       "title": "Enter shrines when you find them.",
       "description": "Even if you don’t want to complete the shrine puzzle, it’s worth just entering a shrine when you find it to add the fast travel point to your map. This will not only allow you to return to the shrine when you feel like doing some puzzle solving, but will help you traverse the wide world of Hyrule - be it on the ground or in the sky.",
       "image": "https://cdn.vox-cdn.com/thumbor/KeflI_wPB5b9ulaF_FHA9VJDZ08=/0x0:2880x1622/1200x800/filters:focal(1210x581:1670x1041)/cdn.vox-cdn.com/uploads/chorus_image/image/72273001/Tears_of_the_Kingdom_Shrine_header.0.png"
     },
     {
+      "id": 11,
       "title": "Increase your weapon, bow and shield storage.",
       "description": "Korok Seeds are back and, once again, they’re used to increase your weapon storage. It’s a good idea to regularly visit Hestu when you’ve gathered a bulk of Korok Seeds and increase your various weapon storages. This will not only increase Link’s arsenal, but grant you more freedom when it comes to experimenting with Fuse.",
       "image": "https://cdn.vox-cdn.com/thumbor/SXXkyLg6qi25R7FV5MJJJaesTuM=/0x0:1280x720/1200x0/filters:focal(0x0:1280x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/24638091/Zelda_Tears_of_the_Kingdom_how_to_increase_inventory_3.jpg"
     },
     {
+      "id": 12,
       "title": "Ascend is great for sneak attacks.",
       "description": "Link’s new Ascend ability isn’t just useful for cutting out unnecessary climbing, you can also use it to stealth attack enemies. If the enemy is hanging out on a bridge or walkthrough, you can use Ascend to pop up behind them and get a quick attack in. Even if you find yourself appearing in the midst of an enemy horde by accident, you can quickly descend back to the ground.",
       "image": "https://editors.dexerto.com/wp-content/uploads/2023/03/29/legend-of-zelda-tears-of-the-kingdom-ascend-e1680080927674.jpg"
     },
     {
+      "id": 13,
       "title": "Axes and fire can destroy Evermean Trees.",
       "description": "You’re not going to get far using a sword against one of these evil trees, so channel your inner lumberjack and start from fires!",
       "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/totk-tears-of-the-kingdom-evermeans-axe-sword.jpg"
     },
     {
+      "id": 14,
       "title": "Smash enemies armour with a hammer.",
       "description": "Swords are also useless against an enemy wearing armour, so, when you find yourself facing one, switch your sword for a hammer and get smashing. Once the armour is gone, your blade can return for some slicing and dicing. If you don’t have a hammer, try fusing a stone to one of your weapons.",
       "image": "https://www.videogameschronicle.com/files/2023/03/TLOZ_TearsOfTheKingdom_28032023_scrn_12.jpg"
     },
     {
+      "id": 15,
       "title": "Watch out for the bottomles bog!",
       "description": "Wonder into this quagmire, or be dragged into it, and you'll quickly find yourself sinking. If Link sinks too deep, then he'll never be able to escape.",
       "image": "https://cdn.wikimg.net/en/zeldawiki/images/thumb/4/42/TotK_Bottomless_Bog_Model.png/1200px-TotK_Bottomless_Bog_Model.png"
     },
     {
+      "id": 16,
       "title": "Keep an eye out for Blupees!",
       "description": "These blue rabbits will drop Rupees if hit by arrows or, if you're quick enough, a weapon. They will also run towards any nearby caves, so, if you see one, make sure you follow it.",
       "image": "https://zeldatearsofthekingdom.wiki.fextralife.com/file/Zelda-Tears-of-the-Kingdom/blupee-wildlife-zelda-totk-wiki-guide-300px.jpg"
     },
     {
+      "id": 17,
       "title": "Make some dog friends.",
       "description": "When meet a dog on your adventure, try befriending it by giving the hound something to eat. (Raw meat is the ideal dog meal.) If the dog is pleased with your friendship offering, then it will lead you to something interesting.",
       "image": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/05/tears-of-the-kingdom-dog.jpg"
     },
     {
+      "id": 18,
       "title": "Be careful when swiming in cold water.",
       "description": "No matter what meals you've eatten or which clothes you're wearing, swimming in cold water will always lower Link's body heat. This will cause you to lose hearts, so, if you need to do some swimming in colder climates, make sure you take this into account.",
       "image": "https://imageresizer.static9.net.au/o_u0DaKTNI55CB1MZtw2f5yx3Jk=/500x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fba44d0a3-cc8b-4e43-984b-0d6fad150230"
     },
     {
+      "id": 19,
       "title": "Bring water to volanic regions.",
       "description": "It's a good idea to bring some water with you when scaling Death Mountain, because, if you pour it over Link, it will provide you with a temporary respite from the heat. Considering how hot Death Mountain is, this water could be what keeps you alive.",
       "image": "https://assetsio.reedpopcdn.com/zelda-tears-of-the-kingdom-timawak-shrine-12.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp"
     },
     {
+      "id": 20,
       "title": "Try dazzling enemies!",
       "description": "Certain weapons, and materials once fused to weapons, will dazzle enemies when you attack them. When this happens, they will drop their weapons! This means you can now get some good attacks in and, if you have the inventory room, pick up their weapons.",
       "image": "https://s.yimg.com/ny/api/res/1.2/gfOh0pYxvDW.hVTyL4Tj0w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/gamesradar_237/a5853b9255bba9bdfe5b571030d4fc02"
